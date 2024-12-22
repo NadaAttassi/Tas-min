@@ -1,0 +1,5 @@
+﻿  BinaryTree.cpp
+C:\Users\H P\source\repos\BinaryTree\BinaryTree\BinaryTree.cpp(12,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\H P\source\repos\BinaryTree\BinaryTree\Node.h(86,27): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\H P\source\repos\BinaryTree\BinaryTree\Node.h(59,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  BinaryTree.vcxproj -> C:\Users\H P\source\repos\BinaryTree\x64\Debug\BinaryTree.exe
